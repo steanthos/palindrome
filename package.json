@@ -1,0 +1,24 @@
+{
+  "name": "steanthos-palindrome",
+  "version": "0.1.0",
+  "description": "palindrome detector",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/steanthos/palindrome.git"
+  },
+  "keywords": [
+    "palindrome",
+    "detector",
+    "javascript"
+  ],
+  "author": "Stefano Antonini",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/steanthos/palindrome/issues"
+  },
+  "homepage": "https://github.com/steanthos/palindrome#readme"
+}
